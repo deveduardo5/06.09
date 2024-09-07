@@ -6,4 +6,4 @@ Nessa aula tivemos alguns conceitos importantes sobre html + Css
 
 ## Eduardo Alcanatara
 
--[@deveduardo5](https://www.github.com/Eduardo)
+-[@deveduardo5](https://github.com/deveduardo5)

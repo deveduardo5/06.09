@@ -1,4 +1,16 @@
-P{
+/* 4 - External Css */
+
+/* P{
     color: green;
     font-size: 40px;
+} */
+
+.paragraph, ol {
+    background-color: #000;
+    color: aqua;
+    padding: 5px;
 }
+
+/* body {
+    background-color: aqua;
+} */
